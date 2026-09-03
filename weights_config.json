@@ -1,0 +1,8 @@
+{
+    "severity": 0.47,
+    "asset_importance": 0.17,
+    "affected_users": 0.12,
+    "data_sensitivity": 0.12,
+    "attack_confidence": 0.12,
+    "business_impact": 0.0
+}
