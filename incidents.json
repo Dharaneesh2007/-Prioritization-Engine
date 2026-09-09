@@ -1,0 +1,35 @@
+[
+    {
+        "id": "05ff61ef-47cf-4884-925b-fd4da0cbe4b0",
+        "title": "Critical DB Breach",
+        "severity": "Critical",
+        "asset_importance": "Critical",
+        "affected_users": 10,
+        "data_sensitivity": "Restricted",
+        "attack_confidence": 0.9,
+        "business_impact": 10.0,
+        "timestamp": "2026-09-07T08:04:57.135622"
+    },
+    {
+        "id": "de01f33e-c880-4fa1-8769-bada94ff26e2",
+        "title": "Suspicious Login Attempt",
+        "severity": "Low",
+        "asset_importance": "Standard",
+        "affected_users": 1,
+        "data_sensitivity": "Public",
+        "attack_confidence": 0.4,
+        "business_impact": 1.0,
+        "timestamp": "2026-09-07T08:04:57.135679"
+    },
+    {
+        "id": "f517a20b-ea61-41cb-9c37-5ba89908b700",
+        "title": "Medium Threat on Sensitive Asset",
+        "severity": "Medium",
+        "asset_importance": "Sensitive",
+        "affected_users": 100,
+        "data_sensitivity": "Confidential",
+        "attack_confidence": 0.7,
+        "business_impact": 5.0,
+        "timestamp": "2026-09-07T08:04:57.135694"
+    }
+]
